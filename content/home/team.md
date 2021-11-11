@@ -2,7 +2,7 @@
 widget: Team-members
 widget_id: team
 headless: true
-weight: 10
+weight: 50
 title: Our Team
 active: true
 design:

@@ -5,6 +5,7 @@ headless: true
 weight: 65
 title: Subprojects
 subtitle: ""
+active: true
 content:
   page_type: project
   filter_default: 0

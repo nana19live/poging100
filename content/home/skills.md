@@ -18,4 +18,5 @@ feature:
     icon_pack: fas
     name: Jan
 widget_id: members
+active: true
 ---

@@ -5,6 +5,7 @@ headless: true
 weight: 60
 title: News
 subtitle: null
+active: true
 content:
   page_type: post
   count: 5

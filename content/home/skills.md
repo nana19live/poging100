@@ -5,17 +5,17 @@ weight: 30
 title: Our team
 subtitle: null
 feature:
-  - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
+  - description: PHD Poitical science
+    icon: user
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Henk
+  - description: PHD Poitical science
+    icon: user
     icon_pack: fas
-    name: Photography
+    name: Piet
+  - description: PHD Poitical science
+    icon: user
+    icon_pack: fas
+    name: Jan
 widget_id: members
 ---
